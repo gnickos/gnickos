@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gnickos
 - 👀 I’m interested in learning more
-- 🌱 I’m currently learning CSS/HTTPS
+- 🌱 I’m currently learning more about PHP
 - 📫 reach me here
 
 <!---
